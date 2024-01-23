@@ -106,16 +106,8 @@ https://habr.com/ru/articles/649363/
 
 🎛️ Operating System
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-%230079d5.svg?style=for-the-badge&logo=Windows%2010&logoColor=white)
-![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
-![Windows 95](https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white)
-
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows 11/10/XP/95](https://img.shields.io/badge/Windows-%230079d5.svg?style=for-the-badge&logo=Windows%11/10/XP/95&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
 ![DOS](https://img.shields.io/badge/DOS-0C322C?style=for-the-badge&logo=DOS&logoColor=white)
 
 
@@ -126,9 +118,11 @@ https://habr.com/ru/articles/649363/
 
 🎓 Education
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+<!--!
+[Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)(https://www.codewars.com/users/Lee%20Sivka) 
+-->
 [![codewars](https://www.codewars.com/users/Lee%20Sivka/badges/small)](https://www.codewars.com/users/Lee%20Sivka) 
-![Stepic](https://img.shields.io/badge/Stepic-0C322C?style=for-the-badge&logo=stepic&logoColor=grey)
+[![Stepic](https://img.shields.io/badge/Stepic-0C322C?style=for-the-badge&logo=stepic&logoColor=grey)](https://stepik.org/users/76967326/profile)
 
 
 🏢 Office
