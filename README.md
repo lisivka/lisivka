@@ -1,9 +1,17 @@
 ### Hi there 👋 
+![](https://komarev.com/ghpvc/?username=lisivka)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lisivka)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lisivka&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lisivka&theme=solarized_dark)
+
+
+
 
 
 <!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lisivka)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisivka)](https://github.com/anuraghazra/github-readme-stats)
 **lisivka/lisivka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,6 +27,8 @@ Here are some ideas to get you started:
 https://ileriayo.github.io/markdown-badges/
 https://github.com/Ileriayo/markdown-badges
 https://habr.com/ru/articles/649363/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ## Languages and Tool
 📋 Languages
@@ -117,6 +127,7 @@ https://habr.com/ru/articles/649363/
 🎓 Education
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+[![codewars](https://www.codewars.com/users/Lee%20Sivka/badges/small)](https://www.codewars.com/users/Lee%20Sivka) 
 ![Stepic](https://img.shields.io/badge/Stepic-0C322C?style=for-the-badge&logo=stepic&logoColor=grey)
 
 
@@ -133,4 +144,26 @@ https://habr.com/ru/articles/649363/
 
 
 
+
+
+
+
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=lisivka)](https://github.com/ryo-ma/github-profile-trophy)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lisivka&theme=solarized_dark)
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lisivka&theme=solarized_dark)
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lisivka&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lisivka&theme=solarized_dark)
+
+-->
+
+
+
+
+
