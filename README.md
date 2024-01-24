@@ -138,6 +138,23 @@ https://habr.com/ru/articles/649363/
 
 
 
+<!--!
+https://stepik.org/cert/294181?lang=en
+https://stepik.org/cert/1625517?lang=en
+https://stepik.org/cert/1447025?lang=en
+https://stepik.org/cert/335278?lang=en
+
+
+<p dir="auto">
+<a href="https://testprovider.com/ru/search-certificate/tp25120564" rel="nofollow"><img alt="Django" title="Django" width="150px" src="https://camo.githubusercontent.com/0432f5459321e30734e00b895f078d845eeace13d720f4f0c1721f636796ee61/68747470733a2f2f7465737470726f76696465722e636f6d2f72752f63657274696669636174652f54503235313230353634" data-canonical-src="https://testprovider.com/ru/certificate/TP25120564" style="max-width: 100%;"></a>
+<a href="https://testprovider.com/ru/search-certificate/TP04066863" rel="nofollow"><img alt="Git" title="Git" width="150px" src="https://camo.githubusercontent.com/1fbf3030dbfd54fd7888706add453cbe53b8a32da81898201cdf542eb1d823cd/68747470733a2f2f7465737470726f76696465722e636f6d2f72752f63657274696669636174652f54503034303636383633" data-canonical-src="https://testprovider.com/ru/certificate/TP04066863" style="max-width: 100%;"></a>
+<a href="https://testprovider.com/ru/search-certificate/TP16208331" rel="nofollow"><img alt="Python" title="Python" width="150px" src="https://camo.githubusercontent.com/5b79f135213edff4cd8c5125f37f3b4f1203923864268ef7e73ff33ebb371f85/68747470733a2f2f7465737470726f76696465722e636f6d2f72752f63657274696669636174652f54503136323038333331" data-canonical-src="https://testprovider.com/ru/certificate/TP16208331" style="max-width: 100%;"></a>
+<a href="https://testprovider.com/ru/search-certificate/TP49026638D" rel="nofollow"><img alt="Python-FullExam" title="Python-FullExam" width="150px" src="https://camo.githubusercontent.com/069dddac08bbec76b711e3bea0da28483a014aa28396dfc19aa094712c5035ca/68747470733a2f2f7465737470726f76696465722e636f6d2f72752f63657274696669636174652f5450343930323636333844" data-canonical-src="https://testprovider.com/ru/certificate/TP49026638D" style="max-width: 100%;"></a>
+
+
+<a href="https://stepik.org/cert/1625517" rel="nofollow"><img alt="Stepik-Python" title="Stepik-Python" width="150px" src="https://camo.githubusercontent.com/ae243d2d9c276fc5f8ebf88d84b2055ef308d2fce6a7f502c029b0d99df86dec/68747470733a2f2f73746570696b2e6f72672f63657274696669636174652f313364316135363261336132316539663239613137383036626639646661656236663738373535662e706e673f7265736f6c7574696f6e3d6c6f77" data-canonical-src="https://stepik.org/certificate/13d1a562a3a21e9f29a17806bf9dfaeb6f78755f.png?resolution=low" style="max-width: 100%;"></a></p>
+-->
+
 
 
 
