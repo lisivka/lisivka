@@ -10,6 +10,12 @@
 
 
 <!--
+https://simpleicons.org/
+(https://ileriayo.github.io/markdown-badges/)
+(https://github.com/Ileriayo/markdown-badges)
+https://habr.com/ru/articles/649363/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lisivka)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisivka)](https://github.com/anuraghazra/github-readme-stats)
 **lisivka/lisivka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,14 +30,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-(https://ileriayo.github.io/markdown-badges/)
-(https://github.com/Ileriayo/markdown-badges)
-https://habr.com/ru/articles/649363/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ## Languages and Tool
-📋 Languages
+📋 Languages, Frameworks, Platforms and Libraries
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -39,8 +42,6 @@ https://habr.com/ru/articles/649363/
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-📚 Frameworks, Platforms and Libraries
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DRF_API-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
