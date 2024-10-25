@@ -1,37 +1,18 @@
-### Hi there 👋 
-![](https://komarev.com/ghpvc/?username=lisivka)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lisivka&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lisivka&theme=solarized_dark)
-
-
-
-
-
-<!--
+<!-- **Read more**
+https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md
 https://simpleicons.org/
 (https://ileriayo.github.io/markdown-badges/)
 (https://github.com/Ileriayo/markdown-badges)
 https://habr.com/ru/articles/649363/
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lisivka)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisivka)](https://github.com/anuraghazra/github-readme-stats)
-**lisivka/lisivka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 -->
+
+### Hi there 👋 
+![Profil views](https://komarev.com/ghpvc/?username=lisivka)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lisivka&theme=solarized_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lisivka&theme=solarized_dark)
+
+
 ## Languages and Tool
 📋 Languages, Frameworks, Platforms and Libraries
 
@@ -66,10 +47,6 @@ Here are some ideas to get you started:
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-<!--
-🖥️ ML/DL
-🤖 Artificial Intelligence and Bots
--->
 ☁ 💾️ Databases/Hosting/SaaS/
  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -100,15 +77,11 @@ Here are some ideas to get you started:
 ![Appsheet](https://img.shields.io/badge/appsheet-%23026AA7.svg?style=for-the-badge&logo=appsheet&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white)
 
-<!--
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) 
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) 
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
--->
+
 
 🎛️ Operating System
 
-![Windows 11/10/XP/95](https://img.shields.io/badge/Windows-%230079d5.svg?style=for-the-badge&logo=Windows%11/10/XP/95&logoColor=white)
+![Windows 11/10/XP/95](https://img.shields.io/badge/Windows-%230079d5.svg?style=for-the-badge&logo=Windows-10&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![DOS](https://img.shields.io/badge/DOS-0C322C?style=for-the-badge&logo=DOS&logoColor=white)
 
@@ -133,25 +106,33 @@ Here are some ideas to get you started:
 
 <!--!
 [Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)(https://www.codewars.com/users/Li%20sivka)
--->
 [![codewars](https://www.codewars.com/users/Li%20sivka/badges/micro)](https://www.codewars.com/users/Li%20sivka) 
+-->
+
 [![Stepic](https://img.shields.io/badge/Stepic-0C322C?style=for-the-badge&logo=stepic&logoColor=grey)](https://stepik.org/users/76967326/profile)
-![Soft Serve](https://img.shields.io/badge/Soft_Serve-%23430098.svg?style=for-the-badge&logo=sanity&logoColor=white)
-![STEP IT ACADEMY](https://img.shields.io/badge/STEP_IT_ACADEMY-%23430098.svg?style=for-the-badge&logo=sanity&logoColor=white)
-![ODOO SCHOOL](https://img.shields.io/badge/Odoo_School-B7472A?style=for-the-badge&logo=ODOO&logoColor=white)
+[![Soft Serve](https://img.shields.io/badge/Soft_Serve_ACADEMY-%23430098.svg?style=for-the-badge&logo=sanity&logoColor=white)](https://softserve.academy/)
+[![STEP IT ACADEMY](https://img.shields.io/badge/STEP_IT_ACADEMY-%23430098.svg?style=for-the-badge&logo=sanity&logoColor=white)](https://itstep.org/)
+[![ODOO SCHOOL](https://img.shields.io/badge/Odoo_School-B7472A?style=for-the-badge&logo=ODOO&logoColor=white)](https://www.odoo.school) 
+[![Google Cloud](https://img.shields.io/badge/google_cloud_skills_boost-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/) 
+[![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Li%20sivka)
 
 
 
 
 
+<!--
+**DRAFT**
+🖥️ ML/DL
+🤖 Artificial Intelligence and Bots
+-->
 
 <!-- 
 https://stepik.org/cert/294181?lang=en
 https://stepik.org/cert/1625517?lang=en
 https://stepik.org/cert/1447025?lang=en
 https://stepik.org/cert/335278?lang=en
-
-
+-->
+<!-- 
 <p dir="auto">
 <a href="https://testprovider.com/ru/search-certificate/tp25120564" rel="nofollow"><img alt="Django" title="Django" width="150px" src="https://camo.githubusercontent.com/0432f5459321e30734e00b895f078d845eeace13d720f4f0c1721f636796ee61/68747470733a2f2f7465737470726f76696465722e636f6d2f72752f63657274696669636174652f54503235313230353634" data-canonical-src="https://testprovider.com/ru/certificate/TP25120564" style="max-width: 100%;"></a>
 <a href="https://testprovider.com/ru/search-certificate/TP04066863" rel="nofollow"><img alt="Git" title="Git" width="150px" src="https://camo.githubusercontent.com/1fbf3030dbfd54fd7888706add453cbe53b8a32da81898201cdf542eb1d823cd/68747470733a2f2f7465737470726f76696465722e636f6d2f72752f63657274696669636174652f54503034303636383633" data-canonical-src="https://testprovider.com/ru/certificate/TP04066863" style="max-width: 100%;"></a>
@@ -162,6 +143,11 @@ https://stepik.org/cert/335278?lang=en
 <a href="https://stepik.org/cert/1625517" rel="nofollow"><img alt="Stepik-Python" title="Stepik-Python" width="150px" src="https://camo.githubusercontent.com/ae243d2d9c276fc5f8ebf88d84b2055ef308d2fce6a7f502c029b0d99df86dec/68747470733a2f2f73746570696b2e6f72672f63657274696669636174652f313364316135363261336132316539663239613137383036626639646661656236663738373535662e706e673f7265736f6c7574696f6e3d6c6f77" data-canonical-src="https://stepik.org/certificate/13d1a562a3a21e9f29a17806bf9dfaeb6f78755f.png?resolution=low" style="max-width: 100%;"></a></p>
 -->
 
+<!--
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) 
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) 
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+-->
 
 
 
@@ -182,5 +168,24 @@ https://stepik.org/cert/335278?lang=en
 
 Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lisivka&theme=solarized_dark)
+
+-->
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lisivka)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisivka)](https://github.com/anuraghazra/github-readme-stats)
+**lisivka/lisivka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 -->
